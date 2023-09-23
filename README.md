@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Reactjs ,Tailwind**
 
-- 👨‍💻 All of my projects are available at [https://parthportfolio13.netlify.app/](https://parthportfolio13.netlify.app/)
+  - 👨‍💻 Check Out my Portfolio [https://parthportfolio13.netlify.app/](https://parthportfolio13.netlify.app/)
 
 - 📫 How to reach me **parthsaini13@gmail.com**
 
