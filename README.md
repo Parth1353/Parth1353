@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Parth Saini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500">
+<img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="500" align="center">
 <br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parth1353&label=Profile%20views&color=0e75b6&style=flat" alt="parth1353" /> </p>
 
