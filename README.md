@@ -5,7 +5,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 <br><br>
 
-- 🌱 I’m currently learning **Reactjs ,Tailwind**
+- 🌱 I’m currently learning **Reactjs ,Django**
 
 - 👨‍💻 All of my projects are available at [https://parthportfolio13.netlify.app/](https://parthportfolio13.netlify.app/)
 
