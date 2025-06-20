@@ -172,7 +172,7 @@
   
   <!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
 <p align="center">
-  <img src="../github-user-contribution.svg" alt="snake animation" width="100%"/>
+    <img src="./github-user-contribution.svg" alt="snake animation" width="100%"/>
 </p>
 
 <br>
