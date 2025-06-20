@@ -147,11 +147,10 @@
   <h3><b>😄 Can Connect With Me On</b></h3>
   </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/parth-saini-1353/" target="_blank"><img align="center" alt="Parth Saini | Linkedin" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="35" width="25"></a> &nbsp;&nbsp;
-<a href="https://twitter.com/Parth1353" target="_blank"><img align="center" alt="Parth Saini | Twitter"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/a1232e34553634c5363aa62c8d1b02161a4438e1/svgs/brands/x-twitter.svg"  height="25"  width="25" style="background-color:red;"></a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/parth1353/" target="_blank"><img align="center" alt="Parth Saini | Instagram"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/Instagram.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
-<a href="mailto:[Update with your email]" ><img align="center" alt="Parth Saini | Gmail"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
-<a href="https://www.facebook.com/[UpdateWithYourProfile]" target="_blank"><img align="center" alt="Parth Saini | Facebook" src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Facebook.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/parth-saini-1353/" target="_blank"><img align="center" alt="Parth Saini | Linkedin" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="35" width="25"></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://twitter.com/Parth1353" target="_blank"><img align="center" alt="Parth Saini | Twitter"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/a1232e34553634c5363aa62c8d1b02161a4438e1/svgs/brands/x-twitter.svg"  height="25"  width="25" style="background-color:red;"></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a href="mailto:parthsaini13@gmail.com" ><img align="center" alt="Parth Saini | Gmail"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
+ &nbsp;&nbsp;
 <p>
   
 <br>
