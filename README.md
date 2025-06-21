@@ -148,7 +148,7 @@
   </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/parth-saini-1353/" target="_blank"><img align="center" alt="Parth Saini | Linkedin" src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" height="35" width="25"></a> &nbsp;&nbsp; &nbsp;&nbsp;
-<a href="https://twitter.com/Parth1353" target="_blank"><img align="center" alt="Parth Saini | Twitter"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/a1232e34553634c5363aa62c8d1b02161a4438e1/svgs/brands/x-twitter.svg"  height="25"  width="25" style="background-color:red;"></a> &nbsp;&nbsp; &nbsp;&nbsp;
+<a href="https://twitter.com" target="_blank"><img align="center" alt="Parth Saini | Twitter"  src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/a1232e34553634c5363aa62c8d1b02161a4438e1/svgs/brands/x-twitter.svg"  height="25"  width="25" style="background-color:red;"></a> &nbsp;&nbsp; &nbsp;&nbsp;
 <a href="mailto:parthsaini13@gmail.com" ><img align="center" alt="Parth Saini | Gmail"  src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg"  height="25"  width="25"></a> &nbsp;&nbsp;
  &nbsp;&nbsp;
 <p>
